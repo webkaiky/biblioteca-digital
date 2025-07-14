@@ -1,9 +1,4 @@
-
-void buscarPorAutor();
-void listarPorAno();
-void rankingLivros();
-void alugarLivro();
-void devolverLivro();#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
